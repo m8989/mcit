@@ -1,0 +1,5 @@
+ ftp.ncdc.noaa.gov
+公开数据集，本来有全球的
+/pub/data/noaa/isd-lite/isd-lite-technical-document.pdf
+
+注意分开只下中国的
